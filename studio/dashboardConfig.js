@@ -41,7 +41,7 @@ export default {
           },
           {
             title: 'Frontend',
-            value: 'https://sanity-gatsby-portfolio-web-t4fp4gza.netlify.com',
+            value: 'https://abdulmuhaimin.netlify.app/',
             category: 'apps'
           }
         ]
